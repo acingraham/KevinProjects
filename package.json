@@ -1,0 +1,25 @@
+{
+  "name": "kevinprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acingraham/KevinProjects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acingraham/KevinProjects/issues"
+  },
+  "homepage": "https://github.com/acingraham/KevinProjects#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.1",
+    "node-sound-effects": "^1.2.0"
+  }
+}
